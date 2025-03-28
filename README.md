@@ -15,6 +15,8 @@ Características Principales
 
 •	Interfaz con Material Design 3: Diseño moderno y minimalista con Jetpack Compose.
 
+Capturas de Pantalla
+
 ![image](https://github.com/user-attachments/assets/ddc55660-c4c8-4c10-a589-96826711acfe)
 ![image](https://github.com/user-attachments/assets/32c6ea17-e416-40db-86a3-d50b65ace008)
 ![image](https://github.com/user-attachments/assets/8b4becc4-f23f-49f7-9263-2dc1c22f1c7d)
