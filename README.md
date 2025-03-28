@@ -8,8 +8,11 @@ Actualmente, las notas solo se almacenan temporalmente en la memoria de la aplic
 Características Principales
 
 •	Agregar Notas: Se permite añadir nuevas notas con un campo de texto y un botón de guardar.
+
 •	Eliminar Notas: Cada nota tiene un botón de eliminación para removerla de la lista.
+
 •	Editar Notas: Se puede modificar el contenido de una nota seleccionada.
+
 •	Interfaz con Material Design 3: Diseño moderno y minimalista con Jetpack Compose.
 
 ![image](https://github.com/user-attachments/assets/ddc55660-c4c8-4c10-a589-96826711acfe)
