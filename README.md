@@ -33,9 +33,13 @@ Pasos para la Instalación
 3.	Navegar hasta la carpeta clonada y abrir el proyecto.
 4.	Sincronizar las dependencias en Gradle.
 5.	Ejecutar la aplicación en un emulador o dispositivo físico.
+
 Tecnologías Utilizadas
 •	Kotlin como lenguaje de programación.
+
 •	Jetpack Compose para la interfaz de usuario.
+
 •	LiveData y ViewModel para la gestión del estado.
+
 •	Material 3 para los componentes de diseño.
 
